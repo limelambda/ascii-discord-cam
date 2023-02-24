@@ -12,7 +12,9 @@ This is `pip install -U -r requirements.txt`
 
 **Setup Configuration**
 
-Go into `camtodiscord.py` and scroll to the bottom line. Put your discord bot's discord token in. If you don't know where your token is, consider google :)
+## If using with discord
+
+Go into `config.txt` and scroll to the and put your discord bot's discord token in. If you don't know where your token is, consider google :)
 
 Go into the discord dev portal and turn on the Message Content Intent.
 
@@ -20,6 +22,10 @@ Finally, go into `camtodiscord.py` and run it. **This will take about a moment, 
 
 # Running
 
-`python "camtodiscord.py"`
+`python camtodiscord.py`
 
-Then, go to the server where the bot is and type !asciicam
+Then, go to the server where the bot is and type ```!asciicam```
+
+## If using without discord
+
+Just run `python asciicam.py`

@@ -4,7 +4,7 @@ A discord bot that sends discord messages in the shape of well whatever camera I
 # Installation
 **I think you need Python 3.8 or higher for this?**
 
-Simply run `git clone https://github.com/redalpa333/discord-asciicam` in a command prompt.
+Simply run `git clone https://github.com/redalpha333/discord-asciicam` in a command prompt.
 
 **Install dependencies**
 
